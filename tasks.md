@@ -1,8 +1,15 @@
 ## Задача 1.   
-### 
+### Исчежающий текст  
+Добавьте JavaScript к кнопке button, чтобы при нажатии элемент `<div id="text">` исчезал.  
+![image](https://user-images.githubusercontent.com/113675674/217559301-63928029-ff6a-4d71-a0d8-64c7a2b37fd2.png)  
+![image](https://user-images.githubusercontent.com/113675674/217559356-b8feeb92-e076-4a21-b8d7-28659190eb60.png)  
 
 ## Задача 2.   
-### 
+### Какой обработчик запустится?  
+В переменной button находится кнопка. Изначально на ней нет обработчиков.  
+Который из обработчиков запустится? Что будет выведено при клике после выполнения кода?  
+![image](https://user-images.githubusercontent.com/113675674/217560135-0bdde2e7-adde-4d7c-a345-bab37ba649bb.png)   
+
 
 ## Задача 3.   
 ### 
