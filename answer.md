@@ -2,7 +2,6 @@
 ### Исчежающий текст  
 ![image](https://user-images.githubusercontent.com/113675674/217559537-1dd16d35-81e6-454f-9de7-d07d2748ee93.png)  
 
-
 ## Задача 2.   
 ### Какой обработчик запустится?  
 _Ответ: 1 и 2._  
@@ -10,6 +9,10 @@ _Ответ: 1 и 2._
 Для того чтобы удалить функцию-обработчик, нужно где-то сохранить ссылку на неё, например:  
 ![image](https://user-images.githubusercontent.com/113675674/217564496-814b3a31-88c5-4a0f-a128-e10edb55c7c3.png)  
 Обработчик button.onclick сработает независимо от addEventListener.  
+
+## Задача 3.   
+### Спрятать себя  
+![image](https://user-images.githubusercontent.com/113675674/218319119-7c423593-d169-4213-b909-dc9a7c9fbd62.png)  
 
 
 
