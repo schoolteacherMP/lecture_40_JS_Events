@@ -1,9 +1,11 @@
 # lecture_40_JS_Events  
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_40_JS_Events/blob/main/tasks.md)    
+
 Есть три способа назначения обработчиков событий:  
 **Атрибут HTML**: onclick="...".  
 **DOM-свойство**: elem.onclick = function.  
 **Специальные методы**: elem.addEventListener(event, handler[, phase]) для добавления, removeEventListener для удаления.  
+
 HTML-атрибуты используются редко потому, что JavaScript в HTML-теге выглядит немного странно. К тому же много кода там не напишешь.  
 
 DOM-свойства вполне можно использовать, но мы не можем назначить больше одного обработчика на один тип события. Во многих случаях с этим ограничением можно мириться.  
