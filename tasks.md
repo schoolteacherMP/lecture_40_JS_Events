@@ -38,7 +38,18 @@
 `<button id="myButton">Click me</button>`  
 
 ## Задача 8.   
-### 
+### Меняем блок по клику  
+Написать JavaScript-код, который при нажатии на кнопку меняет фон блока и надпись в блоке.  
+`<button id="button">I'm button</button>`  
+ `<div id="block">Hello, I'm block!!</div>`  
+
+  `<style>
+    #block{
+      width: 100px;
+      height: 100px;
+      border: 1px solid black;
+    }
+  </style>`  
 
 ## Задача 9.   
 ### 
