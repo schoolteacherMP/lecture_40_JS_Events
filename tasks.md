@@ -33,7 +33,9 @@
 `<input type="text" id="myInput">`  
 
 ## Задача 7.   
-### 
+###  Изменить текст  
+ Написать JavaScript-код, который будет изменять содержимое элемента ("Click me") при клике на него на ("Clicked!").  
+`<button id="myButton">Click me</button>`  
 
 ## Задача 8.   
 ### 
